@@ -21,6 +21,7 @@ def bonus
   }
 
   #code your solution here:
+  p [epic_tragedy][:capulet][:heroine][:status]
 
   
 
