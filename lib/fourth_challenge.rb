@@ -20,6 +20,8 @@ def fourth_challenge
    }
 }
 
+p [epic_tragedy][:capulet][:heroine][:status]
+
 
 
 end
